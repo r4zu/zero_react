@@ -1,0 +1,12 @@
+{
+  "name": "zero_react",
+  "version": "1.0.0",
+  "description": "Copy of React basics",
+  "license": "MIT",
+  "repository": "r4zu/zero_react",
+  "author": "r4zu",
+  "main": "zero.js",
+  "keywords": [
+    "react"
+  ]
+}
